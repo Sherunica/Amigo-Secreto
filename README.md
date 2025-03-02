@@ -1,0 +1,1 @@
+Bienvenido al proyecto **Amigo Secreto**, un juego interactivo desarrollado como parte del desafío de Alura Latam. Este proyecto permite a los usuarios organizar un sorteo de amigo secreto de manera sencilla y dinámica.
