@@ -27,7 +27,7 @@ No necesitas herramientas adicionales para ejecutar este proyecto. Solo asegúre
 Instalación 🔧
 Clona el repositorio en tu máquina local:
 
-git clone https://github.com/Sodi0/challenge-amigo-secreto_esp-main.git
+git clone https://github.com/Sherunica/Amigo-Secreto/tree/main
 Navega al directorio del proyecto:
 
 cd challenge-amigo-secreto_esp-main
